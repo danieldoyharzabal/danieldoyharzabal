@@ -2,9 +2,11 @@
 
 
 
-![SeaChange_logo_White](https://user-images.githubusercontent.com/12786737/193643291-fa572e6e-84d6-4f95-9871-bbb4575e5dfb.png)
+
 
 # Experiencia Laboral
+
+![seachange](https://user-images.githubusercontent.com/12786737/193644897-1d9c985b-0392-43c7-a547-493c29617672.png)
 
 
 I'm working 
