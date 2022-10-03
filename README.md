@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+
+![SeaChange_logo_White](https://user-images.githubusercontent.com/12786737/193643291-fa572e6e-84d6-4f95-9871-bbb4575e5dfb.png)
+
+# Experiencia Laboral
+
+
+I'm working 
+
 <!--
 **danieldoyharzabal/danieldoyharzabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
