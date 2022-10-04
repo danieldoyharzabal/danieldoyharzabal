@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 
@@ -18,7 +19,7 @@ July 1st, 2021 – Now | San Salvador de Jujuy, Jujuy, Argentina
 - Monitoring systems Datadog, Kibana
 
 ---
-
+![C2logo](https://user-images.githubusercontent.com/12786737/193895422-80c2a846-d4d3-40cf-8934-21b025f5448c.png)
 
 August 1st, 2017 – June 31st, 2021 | San Salvador de Jujuy, Jujuy, Argentina
 
