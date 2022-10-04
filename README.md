@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi there 👋, This is a little about me:
 
 
 
